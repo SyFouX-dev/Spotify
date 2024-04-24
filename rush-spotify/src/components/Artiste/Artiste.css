@@ -1,0 +1,40 @@
+.artist {
+    text-align: center;
+    margin-top: 20px; 
+  }
+  
+  .artist {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .info {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 250px;
+  }
+  
+  .info img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .title {
+    margin-top: 10px;
+    font-size: 1.2em;
+  }
+  
+  .link {
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #ff69b4; 
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }
+  

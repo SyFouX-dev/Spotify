@@ -1,0 +1,28 @@
+.home {
+  text-align: center;
+  padding: 20px; 
+}
+
+.bienvenue {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.names {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.link {
+  display: block; 
+  margin-bottom: 10px; 
+  font-size: 18px;
+  color: #8b0690a3; 
+  text-decoration: none; 
+}
+
+.link:hover {
+  text-decoration: underline; 
+}

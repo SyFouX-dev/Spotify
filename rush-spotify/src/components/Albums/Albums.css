@@ -1,0 +1,45 @@
+.album {
+    text-align: center;
+  }
+  
+
+  h2 {
+    color: #ff69b4; 
+  }
+
+  
+  .music-album {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .info {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 200px;
+  }
+  
+  .info img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .title {
+    margin-top: 10px;
+    font-size: 1.2em;
+  }
+  
+  .link {
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .track-link:hover {
+    text-decoration: underline;
+  }
+  

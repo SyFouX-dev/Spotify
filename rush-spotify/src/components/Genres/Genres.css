@@ -1,0 +1,31 @@
+.album {
+    text-align: center;
+    margin-top: 20px; 
+  }
+  
+  h2 {
+    color: #ff69b4; 
+    font-size: 24px; 
+  }
+  
+  .music-album {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  h1 {
+    margin: 20px;
+    padding: 10px;
+    font-size: 1.5em; 
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f0f0f0; 
+    width: 200px;
+  }
+  
+  h1:hover {
+    background-color: #ff69b4; 
+    cursor: pointer; 
+  }
+  
